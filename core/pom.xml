@@ -25,9 +25,11 @@
     <version>1.7-SNAPSHOT</version>
   </parent>
 
-  <artifactId>google-java-format</artifactId>
+  <groupId>cn.shijinshi</groupId>
+  <artifactId>sjs-java-format</artifactId>
+  <version>0.0.1</version>
 
-  <name>Google Java Format</name>
+  <name>Sjs Java Format</name>
 
   <description>
     A Java source code formatter that follows Google Java Style.

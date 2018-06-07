@@ -30,7 +30,7 @@ import com.google.googlejavaformat.java.javadoc.JavadocOptions;
 @Immutable
 public class JavaFormatterOptions implements JavadocOptions {
 
-  static final int DEFAULT_MAX_LINE_LENGTH = 100;
+  static final int DEFAULT_MAX_LINE_LENGTH = 160;
 
   public enum Style {
 
